@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">navigation_c_win</string>
+    <!--activity_main.xml-->
+    <string name="ButtonText1">Set Image</string>
+    <string name="ButtonText2">Next</string>
+
+    <!--activity_sub.xml-->
+    <string name="ButtonText2_1">GrabCut</string>
+    <string name="ButtonText2_2">Next</string>
+</resources>
